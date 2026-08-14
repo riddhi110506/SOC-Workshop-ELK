@@ -1,4 +1,4 @@
-# Lab 1: Detecting PowerShell Network Connections Using ELK
+# Lab 15: Detecting PowerShell Network Connections Using ELK
 
 ## Objective
 
