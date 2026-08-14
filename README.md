@@ -11,10 +11,10 @@ ELK-based SIEM implementation and incident detection labs using Elasticsearch, K
 
 | Setup | Documentation |
 |---|---|
-| ELK Stack Setup | 📖 [Open Guide](./Lab-Setup/ELK-Setup.md) |
-| Elastic Agent Setup | 📖 [Open Guide](./Lab-Setup/Elastic-Agent.md) |
-| Fleet Server Setup | 📖 [Open Guide](./Lab-Setup/Fleet-Server.md) |
-| Sysmon Setup | 📖 [Open Guide](./Lab-Setup/Sysmon.md) |
+| ELK Stack Setup | 📖 [Open Guide](./Lab-Setup%20/ELK-Setup.md) |
+| Elastic Agent Setup | 📖 [Open Guide](./Lab-Setup%20/Elastic-Agent.md) |
+| Fleet Server Setup | 📖 [Open Guide](./Lab-Setup%20/Fleet-Server.md) |
+| Sysmon Setup | 📖 [Open Guide](./Lab-Setup%20/Sysmon.md) |
 
 ---
 
