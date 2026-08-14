@@ -1,0 +1,66 @@
+# Fleet Server Setup
+
+> **Ubuntu – Fleet Server**
+
+## Step 1: Open Fleet in Kibana
+
+Open Kibana in your browser.
+
+Navigate to:
+
+**☰ Menu → Management → Fleet → Agents**
+
+---
+
+## Step 2: Add Fleet Server
+
+In the Fleet page, click:
+
+**Add Fleet Server**
+
+Follow the Fleet Server setup wizard provided by Kibana.
+
+---
+
+## Step 3: Give Fleet Server a Name
+
+Enter a name for the Fleet Server.
+
+Example:
+
+```text
+Fleet-Server
+
+## Step 4: Configure Fleet Server
+
+Kibana will display the Fleet Server configuration and installation instructions.
+
+Configure the Fleet Server host using the IP address or hostname of the Ubuntu machine.
+
+Example:
+
+```text
+https://<Ubuntu-IP>:8220
+
+## Step 5: Install Fleet Server on Ubuntu
+
+Open the Terminal on the Ubuntu machine.
+
+Navigate to the Elastic Agent directory:
+
+```bash
+cd ~/elastic-agent
+
+## Step 6: Verify Fleet Server Enrollment
+
+After the installation is complete, return to:
+
+**Kibana → Management → Fleet → Agents**
+
+Check the list of enrolled agents.
+
+You should see:
+
+```text
+Fleet-Server
+Healthy
